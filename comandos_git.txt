@@ -1,0 +1,7 @@
+git clone - Clonar un repositorio
+git status - Ver el working tree y stage change
+git add - Agrega los archivos al stage change
+git rm o reset - limpia el working tree
+gti log - muestra los cambios del repositorio
+git push - sube los cambios al servidor
+git pull - descarga los cambios que estan en el servidor
