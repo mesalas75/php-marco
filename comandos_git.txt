@@ -1,0 +1,22 @@
+git clone - Clonar un repositorio
+git status - Ver el working tree y stage change
+git add - Agrega los archivos al stage change
+git rm o reset - limpia el working tree
+gti log - muestra los cambios del repositorio
+git push - sube los cambios al servidor
+git pull - descarga los cambios que estan en el servidor
+
+para ver manana
+git checkout 
+git branch
+git cherrypicking
+git stash
+git merge
+
+Saludos Mario aquí esta un ejercicio que se usa seguido para obtener reportes, logs o guardar en csv. intenta hacerlo y si no lo hacemos juntos.
+
+funciones a utilizar de php
+file_get_contents
+json_decode
+fopen
+fputcsv
