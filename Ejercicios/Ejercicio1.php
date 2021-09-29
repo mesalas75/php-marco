@@ -7,6 +7,13 @@
     /*
         edo_id,      edo_nombre,      total_combinaciones
         4,           Campeche,        9
+
+        functiones a utilizar
+        file_get_contents
+        json_decode
+        fopen
+        fputcsv
+
     */
 
 ?>
