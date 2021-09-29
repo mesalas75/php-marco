@@ -1,0 +1,4572 @@
+{
+	"table": "estados_diccionario",
+	"rows":
+	[
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 1,
+			"dsc_estado_texto": "\t\t\t\tAGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 45,
+			"dsc_estado_texto": "\t\t\tAGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 84,
+			"dsc_estado_texto": "\t\t\tPABELLON DE ARTEAGA\tAGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 108,
+			"dsc_estado_texto": "\t\tAGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 170,
+			"dsc_estado_texto": "\tAGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 276,
+			"dsc_estado_texto": " AGUASCALIENTES"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 323,
+			"dsc_estado_texto": ",\tCIUDAD DE MÉXICO\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 324,
+			"dsc_estado_texto": ", \t\t\tJESUS MARIA\tAGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 339,
+			"dsc_estado_texto": "AGS"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 340,
+			"dsc_estado_texto": "Aguacalientes"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 341,
+			"dsc_estado_texto": "aguas calientes"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 342,
+			"dsc_estado_texto": "Aguascalientes"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 343,
+			"dsc_estado_texto": "AGUASCALIENTES\t"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 344,
+			"dsc_estado_texto": "Aguascalientes Aguascalientes"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 345,
+			"dsc_estado_texto": "AGUASCALIENTES,AGS"
+		},
+		{
+			"edo_id": 1,
+			"edo_nombre": "Aguascalientes",
+			"dcs_id": 346,
+			"dsc_estado_texto": "Aguascalientes."
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 2,
+			"dsc_estado_texto": "\t\t\t\tBaja California\t"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 46,
+			"dsc_estado_texto": "\t\t\tBAJA CALIFORNIA"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 47,
+			"dsc_estado_texto": "\t\t\tBAJA CALIFORNIA\t"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 109,
+			"dsc_estado_texto": "\t\tBAJA CALIFORNIA"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 110,
+			"dsc_estado_texto": "\t\tBaja california\t"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 171,
+			"dsc_estado_texto": "\tBAJA CALIFORNIA"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 172,
+			"dsc_estado_texto": "\tBAJA CALIFORNIA\t"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 244,
+			"dsc_estado_texto": " \t\tBAJA CALIFORNIA\t"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 260,
+			"dsc_estado_texto": " \tBAJA CALIFORNIA"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 277,
+			"dsc_estado_texto": " Baja California"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 278,
+			"dsc_estado_texto": " baja california norte"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 349,
+			"dsc_estado_texto": "B.C"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 353,
+			"dsc_estado_texto": "BAJA CALIFORNIA"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 354,
+			"dsc_estado_texto": "BAJA CALIFORNIA\t"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 356,
+			"dsc_estado_texto": "Baja California Norte"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 361,
+			"dsc_estado_texto": "Baja California."
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 362,
+			"dsc_estado_texto": "Baja Californiaia"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 363,
+			"dsc_estado_texto": "Baja Californialiforni"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 364,
+			"dsc_estado_texto": "BALA CALIFORNIA NORTE"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 365,
+			"dsc_estado_texto": "BCN"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 476,
+			"dsc_estado_texto": "Ensenada Baja California"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 612,
+			"dsc_estado_texto": "playas de rosarito bc"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 715,
+			"dsc_estado_texto": "TIJUANA"
+		},
+		{
+			"edo_id": 2,
+			"edo_nombre": "Baja California",
+			"dcs_id": 716,
+			"dsc_estado_texto": "TIJUANA BAJA CALIFORNIA"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 48,
+			"dsc_estado_texto": "\t\t\tBAJA CALIFORNIA SUR\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 111,
+			"dsc_estado_texto": "\t\tBAJA CALIFORNIA SUR"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 112,
+			"dsc_estado_texto": "\t\tBAJA CALIFORNIA SUR\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 161,
+			"dsc_estado_texto": "\t\tTIJUANA\tBAJA CALIFORNIA\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 173,
+			"dsc_estado_texto": "\tBAJA CALIFORNIA SUR\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 225,
+			"dsc_estado_texto": " \t\t\t\tBAJA CALIFORNIA SUR\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 231,
+			"dsc_estado_texto": " \t\t\t\tOaxaca\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 232,
+			"dsc_estado_texto": " \t\t\tBAJA CALIFORNIA SUR\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 350,
+			"dsc_estado_texto": "B.C.S"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 351,
+			"dsc_estado_texto": "B.C.S."
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 352,
+			"dsc_estado_texto": "BAJA CAL SUR"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 355,
+			"dsc_estado_texto": "Baja California Mexico"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 357,
+			"dsc_estado_texto": "Baja California Sur"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 358,
+			"dsc_estado_texto": "BAJA CALIFORNIA SUR\t"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 359,
+			"dsc_estado_texto": "BAJA CALIFORNIA SUR,  "
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 360,
+			"dsc_estado_texto": "Baja California Sur. "
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 366,
+			"dsc_estado_texto": "BCS"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 546,
+			"dsc_estado_texto": "Los cabos"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 547,
+			"dsc_estado_texto": "LOS CABOS BAJA CALIFORNIA SUR"
+		},
+		{
+			"edo_id": 3,
+			"edo_nombre": "Baja California Sur",
+			"dcs_id": 604,
+			"dsc_estado_texto": "Outside US or CA"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 49,
+			"dsc_estado_texto": "\t\t\tCAMPECHE"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 50,
+			"dsc_estado_texto": "\t\t\tCAMPECHE\t"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 279,
+			"dsc_estado_texto": " Campeche"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 368,
+			"dsc_estado_texto": "CAM"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 369,
+			"dsc_estado_texto": "Campechce"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 370,
+			"dsc_estado_texto": "Campeche"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 371,
+			"dsc_estado_texto": "Campeche."
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 372,
+			"dsc_estado_texto": "Campecheamp"
+		},
+		{
+			"edo_id": 4,
+			"edo_nombre": "Campeche",
+			"dcs_id": 377,
+			"dsc_estado_texto": "CARMEN CAMPECHE"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 8,
+			"dsc_estado_texto": "\t\t\t\tCOAHUILA DE ZARAGOZA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 9,
+			"dsc_estado_texto": "\t\t\t\tCOAHUILA DE ZARAGOZA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 58,
+			"dsc_estado_texto": "\t\t\tCOAHUILA DE ZARAGOZA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 59,
+			"dsc_estado_texto": "\t\t\tCOAHUILA DE ZARAGOZA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 121,
+			"dsc_estado_texto": "\t\tCOAHUILA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 122,
+			"dsc_estado_texto": "\t\tCOAHUILA DE ZARAGOZA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 179,
+			"dsc_estado_texto": "\tCOAHUILA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 180,
+			"dsc_estado_texto": "\tCOAHUILA DE ZARAGOZA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 181,
+			"dsc_estado_texto": "\tCOAHUILA DE ZARAGOZA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 226,
+			"dsc_estado_texto": " \t\t\t\tCoahuila\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 268,
+			"dsc_estado_texto": "  COAHUILA DE ZARAGOZA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 283,
+			"dsc_estado_texto": " COAHUILA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 284,
+			"dsc_estado_texto": " COAHUILA DE ZARAGOZA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 418,
+			"dsc_estado_texto": "COA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 419,
+			"dsc_estado_texto": "coahila"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 420,
+			"dsc_estado_texto": "Coahuila"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 421,
+			"dsc_estado_texto": "COAHUILA  (ocurre)"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 422,
+			"dsc_estado_texto": "COAHUILA  c"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 423,
+			"dsc_estado_texto": "Coahuila de Zaragoza"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 424,
+			"dsc_estado_texto": "COAHUILA DE ZARAGOZA\t"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 425,
+			"dsc_estado_texto": "Coahuila de Zaragoza Saltillo "
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 426,
+			"dsc_estado_texto": "Coahuila de Zaragozala"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 427,
+			"dsc_estado_texto": "Coahuila de Zaragozaoahuil"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 428,
+			"dsc_estado_texto": "Coahuila de Zaragozauila"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 429,
+			"dsc_estado_texto": "Coahuila de Zcaragoza"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 430,
+			"dsc_estado_texto": "COAHUILA,"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 431,
+			"dsc_estado_texto": "Coahulia"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 662,
+			"dsc_estado_texto": "SALTILLO"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 722,
+			"dsc_estado_texto": "TORREON COAHUILA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 723,
+			"dsc_estado_texto": "Torreon Coahulia"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 724,
+			"dsc_estado_texto": "TORREON, COAHUILA"
+		},
+		{
+			"edo_id": 5,
+			"edo_nombre": "Coahuila",
+			"dcs_id": 725,
+			"dsc_estado_texto": "Torreón"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 10,
+			"dsc_estado_texto": "\t\t\t\tCOLIMA\t"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 60,
+			"dsc_estado_texto": "\t\t\tCOLIMA"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 61,
+			"dsc_estado_texto": "\t\t\tCOLIMA\t"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 123,
+			"dsc_estado_texto": "\t\tCOLIMA\t"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 182,
+			"dsc_estado_texto": "\tCOLIMA\t"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 247,
+			"dsc_estado_texto": " \t\tCOLIMA\t"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 432,
+			"dsc_estado_texto": "COL"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 433,
+			"dsc_estado_texto": "Colima"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 434,
+			"dsc_estado_texto": "Colima\t"
+		},
+		{
+			"edo_id": 6,
+			"edo_nombre": "Colima",
+			"dcs_id": 435,
+			"dsc_estado_texto": "Con 30 Avenida Principal"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 4,
+			"dsc_estado_texto": "\t\t\t\tCHIAPAS\t"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 52,
+			"dsc_estado_texto": "\t\t\tCHIAPAS\t"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 115,
+			"dsc_estado_texto": "\t\tCHIAPAS\t"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 174,
+			"dsc_estado_texto": "\tCHIAPAS\t"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 280,
+			"dsc_estado_texto": " CHIAPAS"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 386,
+			"dsc_estado_texto": "CHI"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 387,
+			"dsc_estado_texto": "Chiapa"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 388,
+			"dsc_estado_texto": "Chiapas"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 389,
+			"dsc_estado_texto": "Chiapas, México"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 390,
+			"dsc_estado_texto": "ChiapasC"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 679,
+			"dsc_estado_texto": "Sexta Poniente Norte, Nº exterior: 618, Nº interior: FedEx World Service Center"
+		},
+		{
+			"edo_id": 7,
+			"edo_nombre": "Chiapas",
+			"dcs_id": 707,
+			"dsc_estado_texto": "Tapachula"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 5,
+			"dsc_estado_texto": "\t\t\t\tCHIHUAHUA\t"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 53,
+			"dsc_estado_texto": "\t\t\tCHIHUAHUA\t"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 116,
+			"dsc_estado_texto": "\t\tCHIHUAHUA"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 117,
+			"dsc_estado_texto": "\t\tCHIHUAHUA\t"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 175,
+			"dsc_estado_texto": "\tCHIHUAHUA"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 176,
+			"dsc_estado_texto": "\tCHIHUAHUA\t"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 245,
+			"dsc_estado_texto": " \t\tChihuahua"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 281,
+			"dsc_estado_texto": " CHIHUAHUA"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 322,
+			"dsc_estado_texto": ",\tCHIHUAHUA\t"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 378,
+			"dsc_estado_texto": "CD CUAUHTEMOC"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 391,
+			"dsc_estado_texto": "CHIH"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 392,
+			"dsc_estado_texto": "Chihuahua"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 393,
+			"dsc_estado_texto": "CHIHUAHUA\t"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 394,
+			"dsc_estado_texto": "chihuahua / ocurre"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 395,
+			"dsc_estado_texto": "Chihuahua, "
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 396,
+			"dsc_estado_texto": "CHIHUAHUA,."
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 397,
+			"dsc_estado_texto": "chiuahua"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 398,
+			"dsc_estado_texto": "CHU"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 399,
+			"dsc_estado_texto": "Chuihuahua"
+		},
+		{
+			"edo_id": 8,
+			"edo_nombre": "Chihuahua",
+			"dcs_id": 402,
+			"dsc_estado_texto": "cihuahua"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 3,
+			"dsc_estado_texto": "\t\t\t\tCdmx\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 6,
+			"dsc_estado_texto": "\t\t\t\tCIUDAD DE MEXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 7,
+			"dsc_estado_texto": "\t\t\t\tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 11,
+			"dsc_estado_texto": "\t\t\t\tCuidad de Mexico\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 12,
+			"dsc_estado_texto": "\t\t\t\tD. F.\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 13,
+			"dsc_estado_texto": "\t\t\t\tDISTRITO FEDERAL\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 51,
+			"dsc_estado_texto": "\t\t\tCDMX\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 54,
+			"dsc_estado_texto": "\t\t\tCIUDAD DE MEXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 55,
+			"dsc_estado_texto": "\t\t\tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 56,
+			"dsc_estado_texto": "\t\t\tCIUDAD DE MEXICO\tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 62,
+			"dsc_estado_texto": "\t\t\tDISTRITO FEDERAL\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 72,
+			"dsc_estado_texto": "\t\t\tMexico\tEstado de mexico\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 113,
+			"dsc_estado_texto": "\t\tCDMX\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 118,
+			"dsc_estado_texto": "\t\tCIUDAD DE MEXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 119,
+			"dsc_estado_texto": "\t\tCiudad de México\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 124,
+			"dsc_estado_texto": "\t\tDISTRITO FEDERAL\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 136,
+			"dsc_estado_texto": "\t\tMexico\tDF\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 137,
+			"dsc_estado_texto": "\t\tMexico D.F.\tDistrito Federal\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 177,
+			"dsc_estado_texto": "\tCIUDAD DE MEXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 178,
+			"dsc_estado_texto": "\tCIUDAD DE MÉXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 183,
+			"dsc_estado_texto": "\tDISTRITO FEDERAL\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 233,
+			"dsc_estado_texto": " \t\t\tCIUDAD DE MEXICO\tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 234,
+			"dsc_estado_texto": " \t\t\tCIUDAD DE MÉXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 246,
+			"dsc_estado_texto": " \t\tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 248,
+			"dsc_estado_texto": " \t\tD.F\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 261,
+			"dsc_estado_texto": " \tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 269,
+			"dsc_estado_texto": "  DISTRITO FEDERAL "
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 282,
+			"dsc_estado_texto": " Ciudad de México"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 327,
+			"dsc_estado_texto": ", \tCIUDAD DE MEXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 334,
+			"dsc_estado_texto": ". \t\tCIUDAD DE MÉXICO\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 348,
+			"dsc_estado_texto": "AZCAPOTZALCO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 379,
+			"dsc_estado_texto": "CD DE MÉXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 380,
+			"dsc_estado_texto": "CD MX"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 381,
+			"dsc_estado_texto": "CD. DE MÉXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 382,
+			"dsc_estado_texto": "CDMX"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 383,
+			"dsc_estado_texto": "CDMX\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 384,
+			"dsc_estado_texto": "CDMX, "
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 400,
+			"dsc_estado_texto": "Ciduad de México"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 403,
+			"dsc_estado_texto": "Ciudad de  Mexico "
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 405,
+			"dsc_estado_texto": "Ciudad de mexico, "
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 406,
+			"dsc_estado_texto": "CIUDAD DE MÉXICO\t "
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 407,
+			"dsc_estado_texto": "Ciudad de México"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 408,
+			"dsc_estado_texto": "Ciudad de México DF"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 409,
+			"dsc_estado_texto": "Ciudad de México, CDMX"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 410,
+			"dsc_estado_texto": "Ciudad de México."
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 411,
+			"dsc_estado_texto": "Ciudad de México"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 412,
+			"dsc_estado_texto": "Ciudad en México"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 413,
+			"dsc_estado_texto": "Ciudad México"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 440,
+			"dsc_estado_texto": "CUIDAD DE MEXCO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 441,
+			"dsc_estado_texto": "CUIDAD DE MÉXICO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 444,
+			"dsc_estado_texto": "D.F"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 445,
+			"dsc_estado_texto": "D.F."
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 447,
+			"dsc_estado_texto": "Del. Gustavo A. madero"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 448,
+			"dsc_estado_texto": "Delegación Benito Juárez"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 449,
+			"dsc_estado_texto": "Delegación Milpa alta"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 450,
+			"dsc_estado_texto": "Delegación Tlalpan"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 451,
+			"dsc_estado_texto": "DF"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 458,
+			"dsc_estado_texto": "Distrito Federa"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 459,
+			"dsc_estado_texto": "Distrito Federal"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 460,
+			"dsc_estado_texto": "Distrito Federal\t"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 461,
+			"dsc_estado_texto": "Distrito Federalstrit"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 523,
+			"dsc_estado_texto": "gustavo a madero"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 526,
+			"dsc_estado_texto": "HMX - IZTAPALAPA"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 541,
+			"dsc_estado_texto": "LINIO"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 542,
+			"dsc_estado_texto": "LINIO FEDEX"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 557,
+			"dsc_estado_texto": "Mexico D.F."
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 558,
+			"dsc_estado_texto": "MEXICO DF"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 559,
+			"dsc_estado_texto": "MEXICO DISTRITO FEDERAL"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 560,
+			"dsc_estado_texto": "MEXICO, DF"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 582,
+			"dsc_estado_texto": "México, D.F"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 661,
+			"dsc_estado_texto": "RMX - REVOLUCION MIXCOAC"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 674,
+			"dsc_estado_texto": "SAN MIGUEL DE ALLENDE"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 718,
+			"dsc_estado_texto": "Tlalpan"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 746,
+			"dsc_estado_texto": "villa de alvarez"
+		},
+		{
+			"edo_id": 9,
+			"edo_nombre": "Distrito Federal",
+			"dcs_id": 761,
+			"dsc_estado_texto": "Álvaro Obregón"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 14,
+			"dsc_estado_texto": "\t\t\t\tDURANGO\t"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 63,
+			"dsc_estado_texto": "\t\t\tDURANGO\t"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 125,
+			"dsc_estado_texto": "\t\tDURANGO\t"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 184,
+			"dsc_estado_texto": "\tDURANGO\t"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 452,
+			"dsc_estado_texto": "Dgo"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 463,
+			"dsc_estado_texto": "DUG"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 464,
+			"dsc_estado_texto": "Durango"
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 465,
+			"dsc_estado_texto": "DURANGO, DGO  "
+		},
+		{
+			"edo_id": 10,
+			"edo_nombre": "Durango",
+			"dcs_id": 675,
+			"dsc_estado_texto": "Santiago Papasquiaro"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 16,
+			"dsc_estado_texto": "\t\t\t\tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 66,
+			"dsc_estado_texto": "\t\t\tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 128,
+			"dsc_estado_texto": "\t\tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 187,
+			"dsc_estado_texto": "\tGUANAJUATO"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 188,
+			"dsc_estado_texto": "\tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 227,
+			"dsc_estado_texto": " \t\t\t\tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 235,
+			"dsc_estado_texto": " \t\t\tGuanajuato\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 251,
+			"dsc_estado_texto": " \t\tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 262,
+			"dsc_estado_texto": " \tGUANAJUATO\t"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 293,
+			"dsc_estado_texto": " GUANAJUATO"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 503,
+			"dsc_estado_texto": "GTO"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 508,
+			"dsc_estado_texto": "guajuato"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 509,
+			"dsc_estado_texto": "Guanajuato"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 510,
+			"dsc_estado_texto": "Guanajuato  Guanajuato"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 511,
+			"dsc_estado_texto": "Guanajuato Código"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 512,
+			"dsc_estado_texto": "GUANAJUATO. "
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 513,
+			"dsc_estado_texto": "GuanajuatoSan Luis Potosí"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 514,
+			"dsc_estado_texto": "guanajuto"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 515,
+			"dsc_estado_texto": "GUANJUATO"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 528,
+			"dsc_estado_texto": "irapuato "
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 529,
+			"dsc_estado_texto": "IUDAD DE MÉXICO"
+		},
+		{
+			"edo_id": 11,
+			"edo_nombre": "Guanajuato",
+			"dcs_id": 530,
+			"dsc_estado_texto": "IZTACALCO"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 17,
+			"dsc_estado_texto": "\t\t\t\tGUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 67,
+			"dsc_estado_texto": "\t\t\tGUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 129,
+			"dsc_estado_texto": "\t\tGUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 167,
+			"dsc_estado_texto": "\t \tGUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 189,
+			"dsc_estado_texto": "\tGUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 252,
+			"dsc_estado_texto": " \t\tGUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 287,
+			"dsc_estado_texto": " DHL (DHL Express)Guerrero"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 338,
+			"dsc_estado_texto": "ACAPULCO"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 501,
+			"dsc_estado_texto": "GRO"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 502,
+			"dsc_estado_texto": "Gro México"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 516,
+			"dsc_estado_texto": "Guerreo"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 517,
+			"dsc_estado_texto": "GUERRERA"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 518,
+			"dsc_estado_texto": "Guerrero"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 519,
+			"dsc_estado_texto": "GUERRERO\t"
+		},
+		{
+			"edo_id": 12,
+			"edo_nombre": "Guerrero",
+			"dcs_id": 520,
+			"dsc_estado_texto": "GuerreroGe"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 18,
+			"dsc_estado_texto": "\t\t\t\tHIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 44,
+			"dsc_estado_texto": "\t\t\t HIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 68,
+			"dsc_estado_texto": "\t\t\tHIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 75,
+			"dsc_estado_texto": "\t\t\tMiguel Hidalgo\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 130,
+			"dsc_estado_texto": "\t\tHIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 191,
+			"dsc_estado_texto": "\tHIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 228,
+			"dsc_estado_texto": " \t\t\t\tHIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 236,
+			"dsc_estado_texto": " \t\t\tHIDALGO\t"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 294,
+			"dsc_estado_texto": " HIDALGO"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 485,
+			"dsc_estado_texto": "Estado de Hidalgo"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 524,
+			"dsc_estado_texto": "HGO"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 525,
+			"dsc_estado_texto": "Hidalgo"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 605,
+			"dsc_estado_texto": "pachuca"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 606,
+			"dsc_estado_texto": "Pachuca de Soto"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 607,
+			"dsc_estado_texto": "Pachuca de Soto Hidalgo"
+		},
+		{
+			"edo_id": 13,
+			"edo_nombre": "Hidalgo",
+			"dcs_id": 613,
+			"dsc_estado_texto": "Polanco (Delegacion: Miguel Hidalgo)"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 19,
+			"dsc_estado_texto": "\t\t\t\tJALISCO"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 20,
+			"dsc_estado_texto": "\t\t\t\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 69,
+			"dsc_estado_texto": "\t\t\tJALISCO"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 70,
+			"dsc_estado_texto": "\t\t\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 71,
+			"dsc_estado_texto": "\t\t\tJalsico\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 104,
+			"dsc_estado_texto": "\t\t\tZAPOPAN\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 105,
+			"dsc_estado_texto": "\t\t jalisco\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 131,
+			"dsc_estado_texto": "\t\tJALISCO"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 132,
+			"dsc_estado_texto": "\t\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 192,
+			"dsc_estado_texto": "\tJALISCO"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 193,
+			"dsc_estado_texto": "\tJalisco\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 237,
+			"dsc_estado_texto": " \t\t\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 263,
+			"dsc_estado_texto": " \tJalisco\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 270,
+			"dsc_estado_texto": "  JALISCO "
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 295,
+			"dsc_estado_texto": " Jalisco"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 332,
+			"dsc_estado_texto": ". \t\t\tJALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 504,
+			"dsc_estado_texto": "Guadalajara"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 505,
+			"dsc_estado_texto": "Guadalajara Jalisco"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 531,
+			"dsc_estado_texto": "JAL"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 532,
+			"dsc_estado_texto": "jal isco"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 533,
+			"dsc_estado_texto": "jalico"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 534,
+			"dsc_estado_texto": "Jalisco"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 535,
+			"dsc_estado_texto": "JALISCO\t"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 536,
+			"dsc_estado_texto": "Jaliscoisco"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 537,
+			"dsc_estado_texto": "Jaliscoo"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 538,
+			"dsc_estado_texto": "JASLICO"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 580,
+			"dsc_estado_texto": "MÉXICOJALISCO"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 629,
+			"dsc_estado_texto": "puerto vallarta  Jalisco"
+		},
+		{
+			"edo_id": 14,
+			"edo_nombre": "Jalisco",
+			"dcs_id": 760,
+			"dsc_estado_texto": "Zapopan,"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 15,
+			"dsc_estado_texto": "\t\t\t\tEstado de México\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 21,
+			"dsc_estado_texto": "\t\t\t\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 25,
+			"dsc_estado_texto": "\t\t\t\tMÉXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 65,
+			"dsc_estado_texto": "\t\t\tEstado de México\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 78,
+			"dsc_estado_texto": "\t\t\tMÉXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 79,
+			"dsc_estado_texto": "\t\t\tMÉXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 114,
+			"dsc_estado_texto": "\t\tCHALCO DE DIAZ COVARRUBIAS\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 126,
+			"dsc_estado_texto": "\t\tEstado de México\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 134,
+			"dsc_estado_texto": "\t\tMEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 135,
+			"dsc_estado_texto": "\t\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 160,
+			"dsc_estado_texto": "\t\tTEMASCALTEPEC\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 163,
+			"dsc_estado_texto": "\t\tTOLUCA\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 185,
+			"dsc_estado_texto": "\tEdo.Mex.\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 186,
+			"dsc_estado_texto": "\tEstado de México\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 194,
+			"dsc_estado_texto": "\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 195,
+			"dsc_estado_texto": "\tMexico City\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 199,
+			"dsc_estado_texto": "\tMÉXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 229,
+			"dsc_estado_texto": " \t\t\t\tMEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 230,
+			"dsc_estado_texto": " \t\t\t\tMÉXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 238,
+			"dsc_estado_texto": " \t\t\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 243,
+			"dsc_estado_texto": " \t\tAPAXCO\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 250,
+			"dsc_estado_texto": " \t\tEstado de México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 254,
+			"dsc_estado_texto": " \t\tMÉXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 271,
+			"dsc_estado_texto": "  MEXICO "
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 288,
+			"dsc_estado_texto": " edo de mexico"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 289,
+			"dsc_estado_texto": " EDO. DE MÉXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 290,
+			"dsc_estado_texto": " Edo. de México."
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 291,
+			"dsc_estado_texto": " estado de México "
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 292,
+			"dsc_estado_texto": " Estado de México."
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 296,
+			"dsc_estado_texto": " MEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 333,
+			"dsc_estado_texto": ". \t\t\tMEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 446,
+			"dsc_estado_texto": "De México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 466,
+			"dsc_estado_texto": "ED DE MEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 467,
+			"dsc_estado_texto": "edo de mx"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 468,
+			"dsc_estado_texto": "Edo de México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 469,
+			"dsc_estado_texto": "EDO MEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 470,
+			"dsc_estado_texto": "EDO. DE MEX"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 471,
+			"dsc_estado_texto": "edo. de mexico"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 472,
+			"dsc_estado_texto": "EDO. MEX."
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 473,
+			"dsc_estado_texto": "EDO. MEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 474,
+			"dsc_estado_texto": "EDOMEX"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 475,
+			"dsc_estado_texto": "EMX"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 483,
+			"dsc_estado_texto": "Estado  de México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 484,
+			"dsc_estado_texto": "Estado de  México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 486,
+			"dsc_estado_texto": "ESTADO DE MEXICO MEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 487,
+			"dsc_estado_texto": "Estado De Mrxico"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 488,
+			"dsc_estado_texto": "Estado de México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 489,
+			"dsc_estado_texto": "Estado de México Tlanepantla de baz"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 490,
+			"dsc_estado_texto": "Estado de México."
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 491,
+			"dsc_estado_texto": "Estado de México/Mexico"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 492,
+			"dsc_estado_texto": "Estado de México "
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 494,
+			"dsc_estado_texto": "ESTADO EDO. DE MEXICO"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 496,
+			"dsc_estado_texto": "Estado México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 527,
+			"dsc_estado_texto": "huixquilucan estado de mexico"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 555,
+			"dsc_estado_texto": "Mex"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 556,
+			"dsc_estado_texto": "MEXICO\t"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 581,
+			"dsc_estado_texto": "México"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 583,
+			"dsc_estado_texto": "MéxicoDHL (DHL Express)"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 584,
+			"dsc_estado_texto": "Méxicom"
+		},
+		{
+			"edo_id": 15,
+			"edo_nombre": "México",
+			"dcs_id": 708,
+			"dsc_estado_texto": "tecamac"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 22,
+			"dsc_estado_texto": "\t\t\t\tMICHOACAN DE OCAMPO"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 23,
+			"dsc_estado_texto": "\t\t\t\tMICHOACÁN DE OCAMPO\t"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 73,
+			"dsc_estado_texto": "\t\t\tMICHOACAN DE OCAMPO"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 74,
+			"dsc_estado_texto": "\t\t\tMICHOACAN DE OCAMPO\t"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 76,
+			"dsc_estado_texto": "\t\t\tMORELIA\tMICHOACÁN DE OCAMPO"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 138,
+			"dsc_estado_texto": "\t\tMICHOACAN DE OCAMPO"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 139,
+			"dsc_estado_texto": "\t\tMICHOACÁN DE OCAMPO\t"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 196,
+			"dsc_estado_texto": "\tMICHOACAN DE OCAMPO"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 197,
+			"dsc_estado_texto": "\tMICHOACAN DE OCAMPO\t"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 297,
+			"dsc_estado_texto": " Michoacan "
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 298,
+			"dsc_estado_texto": " MICHOACAN DE OCAMPO "
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 561,
+			"dsc_estado_texto": "MIC"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 562,
+			"dsc_estado_texto": "Michoaca"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 563,
+			"dsc_estado_texto": "Michoacan\t"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 564,
+			"dsc_estado_texto": "MICHOACAN DE OCAMPO\t"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 565,
+			"dsc_estado_texto": "Michoacán"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 566,
+			"dsc_estado_texto": "Michoacán de Ocampo"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 567,
+			"dsc_estado_texto": "Michoacán de Ocampo Uruapan"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 568,
+			"dsc_estado_texto": "Michoacán de Ocampoh"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 569,
+			"dsc_estado_texto": "Michoacán de Ocampoic"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 570,
+			"dsc_estado_texto": "Michoacán de Ocampomi"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 571,
+			"dsc_estado_texto": "Michoacán de OcampoMic"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 572,
+			"dsc_estado_texto": "MiICHOACAN DE OCAMPO"
+		},
+		{
+			"edo_id": 16,
+			"edo_nombre": "Michoacán",
+			"dcs_id": 576,
+			"dsc_estado_texto": "Morelia"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 24,
+			"dsc_estado_texto": "\t\t\t\tMORELOS\t"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 77,
+			"dsc_estado_texto": "\t\t\tMORELOS\t"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 141,
+			"dsc_estado_texto": "\t\tMORELOS\t"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 198,
+			"dsc_estado_texto": "\tMORELOS\t"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 253,
+			"dsc_estado_texto": " \t\tMORELOS\t"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 299,
+			"dsc_estado_texto": " Morelos "
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 437,
+			"dsc_estado_texto": "Cuernavaca "
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 438,
+			"dsc_estado_texto": "CUERNAVACA MORELOS"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 439,
+			"dsc_estado_texto": "cuernavaca morenos"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 575,
+			"dsc_estado_texto": "MOR"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 577,
+			"dsc_estado_texto": "Morelos"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 578,
+			"dsc_estado_texto": "Morelos, Mazatlán"
+		},
+		{
+			"edo_id": 17,
+			"edo_nombre": "Morelos",
+			"dcs_id": 579,
+			"dsc_estado_texto": "Morelosrelos"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 80,
+			"dsc_estado_texto": "\t\t\tNAYARIT\t"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 127,
+			"dsc_estado_texto": "\t\tF\tNAYARIT\t"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 142,
+			"dsc_estado_texto": "\t\tNAYARIT\t"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 200,
+			"dsc_estado_texto": "\tNAYARIT\t"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 239,
+			"dsc_estado_texto": " \t\t\tNAYARIT\t"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 586,
+			"dsc_estado_texto": "NAY"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 587,
+			"dsc_estado_texto": "Nayarit"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 588,
+			"dsc_estado_texto": "NAYARIT\t"
+		},
+		{
+			"edo_id": 18,
+			"edo_nombre": "Nayarit",
+			"dcs_id": 709,
+			"dsc_estado_texto": "TEPIC"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 26,
+			"dsc_estado_texto": "\t\t\t\tNUEVO LEÓN\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 57,
+			"dsc_estado_texto": "\t\t\tCIUDAD GENERAL ESCOBEDO\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 81,
+			"dsc_estado_texto": "\t\t\tNUEVO LEON"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 82,
+			"dsc_estado_texto": "\t\t\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 106,
+			"dsc_estado_texto": "\t\t Nuevo Leon "
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 120,
+			"dsc_estado_texto": "\t\tCIUDAD GENERAL ESCOBEDO\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 140,
+			"dsc_estado_texto": "\t\tMONTERREY\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 143,
+			"dsc_estado_texto": "\t\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 144,
+			"dsc_estado_texto": "\t\tNuevo León"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 201,
+			"dsc_estado_texto": "\tNUEVO LEON"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 202,
+			"dsc_estado_texto": "\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 240,
+			"dsc_estado_texto": " \t\t\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 255,
+			"dsc_estado_texto": " \t\tNUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 264,
+			"dsc_estado_texto": " \tNUEVO LEÓN\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 272,
+			"dsc_estado_texto": "  NUEVO LEON "
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 300,
+			"dsc_estado_texto": " Nuevo León"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 301,
+			"dsc_estado_texto": " Nuevo León."
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 401,
+			"dsc_estado_texto": "cienega de flores"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 495,
+			"dsc_estado_texto": "Estado Monterrey nuevo León"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 540,
+			"dsc_estado_texto": "LEÓN"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 573,
+			"dsc_estado_texto": "monterrey"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 574,
+			"dsc_estado_texto": "MONTERREY N.L"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 585,
+			"dsc_estado_texto": "N.L."
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 589,
+			"dsc_estado_texto": "NUE"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 591,
+			"dsc_estado_texto": "NUEVO LEON\t"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 592,
+			"dsc_estado_texto": "NUEVO LEÓNCIUDAD DE MEXICO"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 593,
+			"dsc_estado_texto": "Nuevo León"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 594,
+			"dsc_estado_texto": "Nuevo LeónN"
+		},
+		{
+			"edo_id": 19,
+			"edo_nombre": "Nuevo León",
+			"dcs_id": 595,
+			"dsc_estado_texto": "NUEVOLEON"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 27,
+			"dsc_estado_texto": "\t\t\t\tOAXACA"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 28,
+			"dsc_estado_texto": "\t\t\t\tOAXACA\t"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 83,
+			"dsc_estado_texto": "\t\t\tOAXACA\t"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 145,
+			"dsc_estado_texto": "\t\tOAXACA"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 146,
+			"dsc_estado_texto": "\t\tOAXACA\t"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 203,
+			"dsc_estado_texto": "\tOAXACA\t"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 241,
+			"dsc_estado_texto": " \t\t\tOAXACA"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 256,
+			"dsc_estado_texto": " \t\tOAXACA"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 273,
+			"dsc_estado_texto": "  OAXACA "
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 302,
+			"dsc_estado_texto": " Oaxaca"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 303,
+			"dsc_estado_texto": " Oaxaca."
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 328,
+			"dsc_estado_texto": ", OAXACA DE JUAREZ,"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 596,
+			"dsc_estado_texto": "OAX"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 597,
+			"dsc_estado_texto": "Oaxaca"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 598,
+			"dsc_estado_texto": "OAXACA DE JUÁREZ"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 599,
+			"dsc_estado_texto": "Oaxaca,"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 600,
+			"dsc_estado_texto": "OaxacaO"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 601,
+			"dsc_estado_texto": "Oaxacaxaca"
+		},
+		{
+			"edo_id": 20,
+			"edo_nombre": "Oaxaca",
+			"dcs_id": 602,
+			"dsc_estado_texto": "Oaxca"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 29,
+			"dsc_estado_texto": "\t\t\t\tPUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 30,
+			"dsc_estado_texto": "\t\t\t\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 85,
+			"dsc_estado_texto": "\t\t\tPUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 86,
+			"dsc_estado_texto": "\t\t\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 107,
+			"dsc_estado_texto": "\t\t PUEBLA\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 147,
+			"dsc_estado_texto": "\t\tPUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 148,
+			"dsc_estado_texto": "\t\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 168,
+			"dsc_estado_texto": "\t \tPUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 169,
+			"dsc_estado_texto": "\t--\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 190,
+			"dsc_estado_texto": "\tHEROICA PUEBLA DE ZARAGOZA\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 204,
+			"dsc_estado_texto": "\tPUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 205,
+			"dsc_estado_texto": "\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 210,
+			"dsc_estado_texto": "\tSan Andrés Cholula\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 257,
+			"dsc_estado_texto": " \t\tPUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 258,
+			"dsc_estado_texto": " \t\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 265,
+			"dsc_estado_texto": " \tPuebla\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 274,
+			"dsc_estado_texto": "  PUEBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 285,
+			"dsc_estado_texto": " DHL (DHL Estándar)"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 286,
+			"dsc_estado_texto": " DHL (DHL Express)"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 305,
+			"dsc_estado_texto": " Puebla"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 309,
+			"dsc_estado_texto": " Recoge en tienda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 319,
+			"dsc_estado_texto": " zacapoaxtla , puebla "
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 320,
+			"dsc_estado_texto": ""
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 325,
+			"dsc_estado_texto": ", \t\t\tPUEBLA\t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 331,
+			"dsc_estado_texto": "-"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 335,
+			"dsc_estado_texto": "6837-4035"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 336,
+			"dsc_estado_texto": "641 321 3518"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 337,
+			"dsc_estado_texto": "a"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 347,
+			"dsc_estado_texto": "AMAZON"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 376,
+			"dsc_estado_texto": "CAPU"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 404,
+			"dsc_estado_texto": "ciudad de libre"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 414,
+			"dsc_estado_texto": "CLIENTE ENVIA PDF"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 415,
+			"dsc_estado_texto": "cliente manda guía"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 416,
+			"dsc_estado_texto": "cliente recoge en tieda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 417,
+			"dsc_estado_texto": "cliente recoge en tienda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 453,
+			"dsc_estado_texto": "DHL"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 454,
+			"dsc_estado_texto": "DHL (DHL Estándar)"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 455,
+			"dsc_estado_texto": "DHL (DHL Express)"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 456,
+			"dsc_estado_texto": "DHL (DHL Express)a"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 457,
+			"dsc_estado_texto": "DHL Express"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 462,
+			"dsc_estado_texto": "don oscar lo lleva"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 477,
+			"dsc_estado_texto": "Entrega en Puebla"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 478,
+			"dsc_estado_texto": "ENTREGA EN TIENDA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 479,
+			"dsc_estado_texto": "ENTREGAR EN TIENDA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 480,
+			"dsc_estado_texto": "Envío a obra en Puebla"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 481,
+			"dsc_estado_texto": "Envío por mail"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 482,
+			"dsc_estado_texto": "estado"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 497,
+			"dsc_estado_texto": "ESTAFETA LINIO"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 498,
+			"dsc_estado_texto": "FEDEX LINEO"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 499,
+			"dsc_estado_texto": "fletera "
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 500,
+			"dsc_estado_texto": "GG"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 506,
+			"dsc_estado_texto": "Guadalupe"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 507,
+			"dsc_estado_texto": "guadalupe victoria"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 521,
+			"dsc_estado_texto": "Guia DHL"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 522,
+			"dsc_estado_texto": "GUIA PDF PARA  C6098"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 539,
+			"dsc_estado_texto": "kljh"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 543,
+			"dsc_estado_texto": "lkjhlk"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 544,
+			"dsc_estado_texto": "Lleva Chofer"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 545,
+			"dsc_estado_texto": "lleva don oscar"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 549,
+			"dsc_estado_texto": "Mandan fletera"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 550,
+			"dsc_estado_texto": "Mandar a oficina"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 551,
+			"dsc_estado_texto": "mandaron guia "
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 552,
+			"dsc_estado_texto": "MAS LUZ TIENDA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 603,
+			"dsc_estado_texto": "OCURRE"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 608,
+			"dsc_estado_texto": "PASA A RECOGER A TIENDA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 609,
+			"dsc_estado_texto": "PASAN A RECOGERLAS "
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 610,
+			"dsc_estado_texto": "Pendiente"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 611,
+			"dsc_estado_texto": "PEUBLA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 614,
+			"dsc_estado_texto": "por confirmar"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 616,
+			"dsc_estado_texto": "prueba"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 617,
+			"dsc_estado_texto": "prueba estado"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 618,
+			"dsc_estado_texto": "prueba2"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 619,
+			"dsc_estado_texto": "prueba3"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 620,
+			"dsc_estado_texto": "PRUEBA4"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 621,
+			"dsc_estado_texto": "PUE"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 622,
+			"dsc_estado_texto": "Pueba"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 623,
+			"dsc_estado_texto": "Puebla"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 624,
+			"dsc_estado_texto": "PUEBLA \t"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 625,
+			"dsc_estado_texto": "Puebla,"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 626,
+			"dsc_estado_texto": "Puebla."
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 627,
+			"dsc_estado_texto": "pueblas"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 653,
+			"dsc_estado_texto": "RECOGE EN MAGG"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 654,
+			"dsc_estado_texto": "recoge en tienda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 655,
+			"dsc_estado_texto": "recoge entienda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 656,
+			"dsc_estado_texto": "RECOGE MATERIAL EN PLANTA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 657,
+			"dsc_estado_texto": "RECOGER A TIENDA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 658,
+			"dsc_estado_texto": "Recoger en tienda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 659,
+			"dsc_estado_texto": "REF - DIANA"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 660,
+			"dsc_estado_texto": "reynosa"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 663,
+			"dsc_estado_texto": "SAN"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 664,
+			"dsc_estado_texto": "san andres cholula"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 676,
+			"dsc_estado_texto": "Se lleva producto"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 677,
+			"dsc_estado_texto": "se va con orden MELI1108361487"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 678,
+			"dsc_estado_texto": "SE VA CON VC91624"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 686,
+			"dsc_estado_texto": "SOLO PARA TICKET"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 687,
+			"dsc_estado_texto": "SOLO TICKET"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 710,
+			"dsc_estado_texto": "tienda"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 711,
+			"dsc_estado_texto": "TIENDA MAS LUZ"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 712,
+			"dsc_estado_texto": "TIENDA MASLUZ"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 713,
+			"dsc_estado_texto": "TIENDA ML"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 714,
+			"dsc_estado_texto": "Tienda MT"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 751,
+			"dsc_estado_texto": "XXXX"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 752,
+			"dsc_estado_texto": "XXXXX"
+		},
+		{
+			"edo_id": 21,
+			"edo_nombre": "Puebla",
+			"dcs_id": 753,
+			"dsc_estado_texto": "XXXXXXXXXXX"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 31,
+			"dsc_estado_texto": "\t\t\t\tQUERETARO"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 32,
+			"dsc_estado_texto": "\t\t\t\tQUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 64,
+			"dsc_estado_texto": "\t\t\tEL PUEBLITO\tQUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 87,
+			"dsc_estado_texto": "\t\t\tqro\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 88,
+			"dsc_estado_texto": "\t\t\tQUERETARO"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 89,
+			"dsc_estado_texto": "\t\t\tQUERÉTARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 149,
+			"dsc_estado_texto": "\t\tQro\tMexico\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 150,
+			"dsc_estado_texto": "\t\tQUERETARO"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 151,
+			"dsc_estado_texto": "\t\tQUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 206,
+			"dsc_estado_texto": "\tQUERÉTARO"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 207,
+			"dsc_estado_texto": "\tQUERÉTARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 249,
+			"dsc_estado_texto": " \t\tEL MARQUES\tQUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 259,
+			"dsc_estado_texto": " \t\tQUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 307,
+			"dsc_estado_texto": " QUERETARO"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 321,
+			"dsc_estado_texto": ",\t\t\tQUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 329,
+			"dsc_estado_texto": ", QUERÉTARO"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 632,
+			"dsc_estado_texto": "QUE"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 633,
+			"dsc_estado_texto": "Querataro"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 634,
+			"dsc_estado_texto": "QUERETARO\t"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 635,
+			"dsc_estado_texto": "QUERETARO, "
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 636,
+			"dsc_estado_texto": "Queretaro."
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 637,
+			"dsc_estado_texto": "Quertaro"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 638,
+			"dsc_estado_texto": "QUERÉTARO DE ARTEAGA"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 639,
+			"dsc_estado_texto": "Queréetaro"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 640,
+			"dsc_estado_texto": "Querétaro"
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 641,
+			"dsc_estado_texto": "Querétaro, Qro."
+		},
+		{
+			"edo_id": 22,
+			"edo_nombre": "Querétaro",
+			"dcs_id": 642,
+			"dsc_estado_texto": "QuerétaroQueretaro"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 33,
+			"dsc_estado_texto": "\t\t\t\tQUINTANA ROO\t"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 90,
+			"dsc_estado_texto": "\t\t\tQUINTANA ROO"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 91,
+			"dsc_estado_texto": "\t\t\tQUINTANA ROO\t"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 152,
+			"dsc_estado_texto": "\t\tQUINTANA ROO\t"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 208,
+			"dsc_estado_texto": "\tQUINTANA ROO"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 209,
+			"dsc_estado_texto": "\tQUINTANA ROO\t"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 266,
+			"dsc_estado_texto": " \tQUINTANA ROO\t"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 304,
+			"dsc_estado_texto": " playa del carmen"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 306,
+			"dsc_estado_texto": " Q. Roo"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 308,
+			"dsc_estado_texto": " Quintana Roo"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 367,
+			"dsc_estado_texto": "Benito Juárez"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 373,
+			"dsc_estado_texto": "Cancun Quintana Roo"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 374,
+			"dsc_estado_texto": "CANCUN QUINTANARRO"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 375,
+			"dsc_estado_texto": "Cancún"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 385,
+			"dsc_estado_texto": "Chetumal"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 630,
+			"dsc_estado_texto": "Q. Roo"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 631,
+			"dsc_estado_texto": "Q.ROO"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 643,
+			"dsc_estado_texto": "QUI"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 644,
+			"dsc_estado_texto": "Quinatana Roo."
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 645,
+			"dsc_estado_texto": "QUINTA ROO"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 646,
+			"dsc_estado_texto": "Quintana  Roo"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 647,
+			"dsc_estado_texto": "Quintana Roo"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 648,
+			"dsc_estado_texto": "quintana roo Cp "
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 649,
+			"dsc_estado_texto": "Quintana Roo ocurre"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 650,
+			"dsc_estado_texto": "Quintana Roo."
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 651,
+			"dsc_estado_texto": "Quintana Rooq"
+		},
+		{
+			"edo_id": 23,
+			"edo_nombre": "Quintana Roo",
+			"dcs_id": 652,
+			"dsc_estado_texto": "Quintanaroo"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 34,
+			"dsc_estado_texto": "\t\t\t\tSAN LUIS POTOSI"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 35,
+			"dsc_estado_texto": "\t\t\t\tSAN LUIS POTOSÍ\t"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 92,
+			"dsc_estado_texto": "\t\t\tSAN LUIS POTOSI"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 93,
+			"dsc_estado_texto": "\t\t\tSAN LUIS POTOSI\t"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 153,
+			"dsc_estado_texto": "\t\tSAN LUIS POTOSI"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 154,
+			"dsc_estado_texto": "\t\tSAN LUIS POTOSI\t"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 211,
+			"dsc_estado_texto": "\tSAN LUIS POTOSI"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 212,
+			"dsc_estado_texto": "\tSAN LUIS POTOSI\t"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 310,
+			"dsc_estado_texto": " SAN LUIS POTOSI"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 665,
+			"dsc_estado_texto": "San Antonio"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 666,
+			"dsc_estado_texto": "San Luis Potisi"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 667,
+			"dsc_estado_texto": "SAN LUIS POTOS"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 668,
+			"dsc_estado_texto": "san luis potosi\t"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 669,
+			"dsc_estado_texto": "SAN LUIS POTOSI,"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 670,
+			"dsc_estado_texto": "San Luis Potosí"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 671,
+			"dsc_estado_texto": "San Luis Potosípo"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 672,
+			"dsc_estado_texto": "San Luis Potosís"
+		},
+		{
+			"edo_id": 24,
+			"edo_nombre": "San Luis Potosí",
+			"dcs_id": 673,
+			"dsc_estado_texto": "San Luis Potosísa"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 36,
+			"dsc_estado_texto": "\t\t\t\tSINALOA\t"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 94,
+			"dsc_estado_texto": "\t\t\tSINALOA\t"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 133,
+			"dsc_estado_texto": "\t\tLOS MOCHIS\tSINALOA\t"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 155,
+			"dsc_estado_texto": "\t\tSINALOA\t"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 213,
+			"dsc_estado_texto": "\tSINALOA"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 214,
+			"dsc_estado_texto": "\tSINALOA\t"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 275,
+			"dsc_estado_texto": "  Sinaloa "
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 311,
+			"dsc_estado_texto": " Sinaloa"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 442,
+			"dsc_estado_texto": "Culiacan"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 548,
+			"dsc_estado_texto": "Los mochis,Sinaloa"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 553,
+			"dsc_estado_texto": "MAZATLAN"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 680,
+			"dsc_estado_texto": "SIN"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 681,
+			"dsc_estado_texto": "SINALO"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 682,
+			"dsc_estado_texto": "Sinaloa"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 683,
+			"dsc_estado_texto": "SINALOA\t"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 684,
+			"dsc_estado_texto": "Sinaloa Culiacán"
+		},
+		{
+			"edo_id": 25,
+			"edo_nombre": "Sinaloa",
+			"dcs_id": 685,
+			"dsc_estado_texto": "sinaloa."
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 37,
+			"dsc_estado_texto": "\t\t\t\tSONORA\t"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 95,
+			"dsc_estado_texto": "\t\t\tSONORA\t"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 156,
+			"dsc_estado_texto": "\t\tSONORA\t"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 215,
+			"dsc_estado_texto": "\tSONORA"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 216,
+			"dsc_estado_texto": "\tSONORA\t"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 312,
+			"dsc_estado_texto": " SONORA"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 628,
+			"dsc_estado_texto": "Puerto Peñasco"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 688,
+			"dsc_estado_texto": "SON"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 689,
+			"dsc_estado_texto": "Sonora"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 690,
+			"dsc_estado_texto": "Sonoraa"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 691,
+			"dsc_estado_texto": "Sonoraora"
+		},
+		{
+			"edo_id": 26,
+			"edo_nombre": "Sonora",
+			"dcs_id": 692,
+			"dsc_estado_texto": "SonoraSonor"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 38,
+			"dsc_estado_texto": "\t\t\t\tTABASCO\t"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 96,
+			"dsc_estado_texto": "\t\t\tTabasco\t"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 157,
+			"dsc_estado_texto": "\t\tTABASCO\t"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 217,
+			"dsc_estado_texto": "\tTABASCO\t"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 313,
+			"dsc_estado_texto": " TABASCO "
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 443,
+			"dsc_estado_texto": "Cárdenas"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 693,
+			"dsc_estado_texto": "TAB"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 694,
+			"dsc_estado_texto": "Tabasco"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 695,
+			"dsc_estado_texto": "TABASCO CENTRO"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 747,
+			"dsc_estado_texto": "VILLA HERMOSA"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 748,
+			"dsc_estado_texto": "Villahermosa"
+		},
+		{
+			"edo_id": 27,
+			"edo_nombre": "Tabasco",
+			"dcs_id": 749,
+			"dsc_estado_texto": "Villahermosa Tabasco"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 39,
+			"dsc_estado_texto": "\t\t\t\tTAMAULIPAS\t"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 97,
+			"dsc_estado_texto": "\t\t\tTAMAULIPAS"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 98,
+			"dsc_estado_texto": "\t\t\tTAMAULIPAS\t"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 158,
+			"dsc_estado_texto": "\t\tTAMAULIPAS"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 159,
+			"dsc_estado_texto": "\t\tTAMAULIPAS\t"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 218,
+			"dsc_estado_texto": "\tTAMAULIPAS\t"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 314,
+			"dsc_estado_texto": " tamaulipas"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 590,
+			"dsc_estado_texto": "Nuevo Laredo"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 696,
+			"dsc_estado_texto": "TAM"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 697,
+			"dsc_estado_texto": "TAMALUIPAS"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 698,
+			"dsc_estado_texto": "TAMAUILIPAS"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 699,
+			"dsc_estado_texto": "Tamaulip"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 700,
+			"dsc_estado_texto": "Tamaulipas"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 701,
+			"dsc_estado_texto": "Tamaulipas Altamira"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 702,
+			"dsc_estado_texto": "Tamaulipast"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 703,
+			"dsc_estado_texto": "Tamaulipasta"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 704,
+			"dsc_estado_texto": "Tamaullipas"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 705,
+			"dsc_estado_texto": "Tampaulipas"
+		},
+		{
+			"edo_id": 28,
+			"edo_nombre": "Tamaulipas",
+			"dcs_id": 706,
+			"dsc_estado_texto": "Tampico"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 40,
+			"dsc_estado_texto": "\t\t\t\tTLAXCALA"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 99,
+			"dsc_estado_texto": "\t\t\tTLAXCALA\t"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 162,
+			"dsc_estado_texto": "\t\tTLAXCALA\t"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 315,
+			"dsc_estado_texto": " Tlaxcala"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 717,
+			"dsc_estado_texto": "TLA"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 719,
+			"dsc_estado_texto": "Tlaxala"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 720,
+			"dsc_estado_texto": "Tlaxcala"
+		},
+		{
+			"edo_id": 29,
+			"edo_nombre": "Tlaxcala",
+			"dcs_id": 721,
+			"dsc_estado_texto": "tlaxco"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 41,
+			"dsc_estado_texto": "\t\t\t\tVeracruz\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 42,
+			"dsc_estado_texto": "\t\t\t\tVERACRUZ DE IGNACIO DE LA LLAVE\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 100,
+			"dsc_estado_texto": "\t\t\tVERACRUZ DE IGNACIO DE LA LLAVE\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 164,
+			"dsc_estado_texto": "\t\tVERACRUZ DE IGNACIO DE LA LLAVE\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 219,
+			"dsc_estado_texto": "\tVERACRUZ"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 220,
+			"dsc_estado_texto": "\tVERACRUZ DE IGNACIO DE LA LLAVE"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 221,
+			"dsc_estado_texto": "\tVERACRUZ DE IGNACIO DE LA LLAVE\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 242,
+			"dsc_estado_texto": " \t\t\tVERACRUZ DE IGNACIO DE LA LLAVE\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 316,
+			"dsc_estado_texto": " VERACRUZ"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 317,
+			"dsc_estado_texto": " VERACRUZ DE IGNACIO DE LA LLAVE"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 436,
+			"dsc_estado_texto": "Cordova"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 493,
+			"dsc_estado_texto": "Estado de Veracruz"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 615,
+			"dsc_estado_texto": "Poza rica"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 726,
+			"dsc_estado_texto": "Varacruz"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 727,
+			"dsc_estado_texto": "VE90391"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 728,
+			"dsc_estado_texto": "VER"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 729,
+			"dsc_estado_texto": "Ver."
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 730,
+			"dsc_estado_texto": "Veracrtuz"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 731,
+			"dsc_estado_texto": "VERACRUAZ"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 732,
+			"dsc_estado_texto": "Veracruz"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 733,
+			"dsc_estado_texto": "Veracruz\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 734,
+			"dsc_estado_texto": "Veracruz  de  Ignacio  de  la"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 735,
+			"dsc_estado_texto": "Veracruz de Ignacio de la Llav"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 736,
+			"dsc_estado_texto": "Veracruz de Ignacio de la Llav."
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 737,
+			"dsc_estado_texto": "VERACRUZ DE IGNACIO DE LA LLAVE"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 738,
+			"dsc_estado_texto": "VERACRUZ DE IGNACIO DE LA LLAVE\t"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 739,
+			"dsc_estado_texto": "VERACRUZ DE LA LLAVE"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 740,
+			"dsc_estado_texto": "Veracruz Panuco "
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 741,
+			"dsc_estado_texto": "VERACRUZ POZA RICA"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 742,
+			"dsc_estado_texto": "Veracruz,"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 743,
+			"dsc_estado_texto": "VERACRUZ,VER"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 744,
+			"dsc_estado_texto": "VERACRUZ."
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 745,
+			"dsc_estado_texto": "Vereracuz"
+		},
+		{
+			"edo_id": 30,
+			"edo_nombre": "Veracruz",
+			"dcs_id": 750,
+			"dsc_estado_texto": "Xalapa Veracruz"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 101,
+			"dsc_estado_texto": "\t\t\tYUCATAN\t"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 165,
+			"dsc_estado_texto": "\t\tYUCATAN\t"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 222,
+			"dsc_estado_texto": "\tYUCATAN"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 223,
+			"dsc_estado_texto": "\tYUCATAN\t"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 267,
+			"dsc_estado_texto": " \tYUCATAN\t"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 318,
+			"dsc_estado_texto": " YUCATÁN"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 554,
+			"dsc_estado_texto": "MERIDA"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 754,
+			"dsc_estado_texto": "YUC"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 755,
+			"dsc_estado_texto": "YUCATÁN\t"
+		},
+		{
+			"edo_id": 31,
+			"edo_nombre": "Yucatán",
+			"dcs_id": 756,
+			"dsc_estado_texto": "Yucatán"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 43,
+			"dsc_estado_texto": "\t\t\t\tZACATECAS\t"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 102,
+			"dsc_estado_texto": "\t\t\tZACATECAS"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 103,
+			"dsc_estado_texto": "\t\t\tZACATECAS\t"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 166,
+			"dsc_estado_texto": "\t\tZACATECAS\t"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 224,
+			"dsc_estado_texto": "\tZACATECAS\t"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 326,
+			"dsc_estado_texto": ", \t\tZACATECAS\t"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 330,
+			"dsc_estado_texto": ",, \tGUADALUPE\tZACATECAS\t"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 757,
+			"dsc_estado_texto": "ZAC"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 758,
+			"dsc_estado_texto": "Zacatecas"
+		},
+		{
+			"edo_id": 32,
+			"edo_nombre": "Zacatecas",
+			"dcs_id": 759,
+			"dsc_estado_texto": "Zacatecas."
+		}
+	]
+}
